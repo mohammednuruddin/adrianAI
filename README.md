@@ -30,7 +30,7 @@ or
 ## Configuration
 
 - **Model Configuration**: The assistant uses various models from HuggingFace and other sources. Ensure you have the correct models downloaded and configured as per the script.
-- **API Keys**: Some functionalities may require API keys. Get your free key from [Groq](https://console.groq.com/keys)
+- **API Keys**: Some functionalities may require API keys. Get you huggingface token from [HuggingFace](https://huggingface.co/settings/tokens). Get your free key from [Groq](https://console.groq.com/keys)
 
 ## Contributing
 
